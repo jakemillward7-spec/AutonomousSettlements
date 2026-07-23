@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+    <name>Autonomous Settlements</name>
+    <author>YourName</author>
+    <packageId>yourname.autonomoussettlements</packageId>
+    <description>
+        Autonomous NPC factions that build and defend settlements.
+    </description>
+</ModMetaData>
